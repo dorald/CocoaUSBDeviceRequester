@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>4EEA381D-2144-4117-A1C1-BE3C3D7A2D71</string>
+	<key>IDESourceControlProjectName</key>
+	<string>DeviceRequester</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>17BF3429-FF31-48C2-9FFF-7C5CCF769AFF</key>
+		<string>https://github.com/dorald/CocoaUSBDeviceRequester.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>DeviceRequester.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>17BF3429-FF31-48C2-9FFF-7C5CCF769AFF</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/dorald/CocoaUSBDeviceRequester.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>17BF3429-FF31-48C2-9FFF-7C5CCF769AFF</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>17BF3429-FF31-48C2-9FFF-7C5CCF769AFF</string>
+			<key>IDESourceControlWCCName</key>
+			<string>CocoaUSBDeviceRequester</string>
+		</dict>
+	</array>
+</dict>
+</plist>
